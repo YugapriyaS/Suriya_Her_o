@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background-color: rgb(255, 249, 192);
+   
+}
+h4{
+    font-size: 20px;
+    background-color: aqua;
+}
+div{
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+button{
+    height: 30px;
+    width: 70px;
+    margin-left:95%;
+    background-color: green;
+}
